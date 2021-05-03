@@ -3,9 +3,6 @@ var Nota100Count = 0;
 var Nota50Count = 0;
 var Nota20Count = 0; 
 var Nota10Count = 0; 
-var Nota5Count = 0;
-var Nota2Count = 0;
-var Nota1Count = 0; 
 
 valorSaque = prompt("Digite o valor que deseja sacar: "); 
 resto = parseInt(valorSaque); 
